@@ -22,4 +22,4 @@ Virtual Element Method
 	Keywords: Virtual Element Method (VEM); Crack propagation; Polygonal discretization; Polygonal elements; Adaptive mesh refinement
 ------------------------------------------------------------------------------------------ %
 Thank you and have fun with my code, enjoy it !!!
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
