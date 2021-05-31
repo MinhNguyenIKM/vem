@@ -5,7 +5,7 @@ Virtual Element Method
 
  Author: Nguyen Thanh Vien Minh 
 
- Email: minh.nguyen@ikm.uni-hannover.de 
+ Email: minh.nguyen@iop.uni-hannover.de 
 
  Working at: Institut fuer Kontinuumsmechanik, Hannover, Germany 
 
